@@ -7,4 +7,4 @@
 - 💬 Ask me about Python, Pytorch and my projects on [2275135452@qq.com](mailto:2275135452@qq.com)
 - ⚡ Fun fact: NLP📊
 
-⭐️ From [Kaijian Li](https://github.com/JoeyBling)
+⭐️ From [Kaijian Li](https://brandonnogithub.github.io/Kaijianli/)
